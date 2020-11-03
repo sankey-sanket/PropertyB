@@ -1,0 +1,23 @@
+body {
+    padding: 0%;
+    margin: 0;
+}
+
+.hi-headline {
+    height: 30vh;
+    background-color: rgb(225, 255, 127);
+    justify-content: center;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.sitename {
+    color: white;
+    height: 70vh;
+    background-color: rgb(19, 0, 128);
+    justify-content: center;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+}
